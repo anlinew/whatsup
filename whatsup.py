@@ -105,6 +105,6 @@ if __name__=="__main__":
     # test_itchat()
     # get_response("测试图灵")
     msg0="今天天气不错"
-    chat(msg0)
     print("0 :  " +msg0)
+    chat(msg0)
     # get_unit_res('我猜不到你想表达的意思。')
